@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_2c5afeb7393fd874a5af36fdc79794e8c81e4106.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_6d5bda914ac6e58ca5be2b0268ce834f0d477927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_88eeb4eff0216a5ec7e5bdfbd6e5749a2ab42db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_f211705e7d3693c1480e914209a6c2d31525d7b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_ded213c215bbd4fdbea1e01bafe4bc6c61d8bf29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_f62c5ff01e67836cee652361550d8edfaa39ebb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_31ac3d616aff7dad30abf8bff0667db22c431244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_6158243e384ddd61fa19bee84db47bf59864c8f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nick/Android/android-sdk-linux_x86-1.6_r1/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_fc6db12375003106a35391e9b7593f5cac9b6de4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/nick/Workspace/BitmapSizeOptimize/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_65b216120065e4da89cc69b8dedf3a144f299f52.jar" />
+    </item>
+
+</items>

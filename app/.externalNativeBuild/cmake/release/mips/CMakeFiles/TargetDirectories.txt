@@ -1,0 +1,3 @@
+/home/nick/Workspace/BitmapSizeOptimize/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/edit_cache.dir
+/home/nick/Workspace/BitmapSizeOptimize/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/rebuild_cache.dir
+/home/nick/Workspace/BitmapSizeOptimize/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/jpeg-turbo-lib.dir

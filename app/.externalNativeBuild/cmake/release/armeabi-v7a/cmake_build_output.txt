@@ -1,0 +1,23 @@
+-- Check for working C compiler: /home/nick/Android/android-ndk-r16/toolchains/llvm/prebuilt/linux-x86_64/bin/clang
+-- Check for working C compiler: /home/nick/Android/android-ndk-r16/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /home/nick/Android/android-ndk-r16/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++
+-- Check for working CXX compiler: /home/nick/Android/android-ndk-r16/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nick/Workspace/BitmapSizeOptimize/app/.externalNativeBuild/cmake/release/armeabi-v7a
+CMake Warning at /home/nick/Android/android-ndk-r16/build/cmake/android.toolchain.cmake:63 (message):
+  Using custom NDK path (ANDROID_NDK is set):
+  /home/nick/Android/android-ndk-r16
+Call Stack (most recent call first):
+  /home/nick/Android/android-sdk-linux_x86-1.6_r1/cmake/3.6.4111459/share/cmake-3.6/Modules/CMakeDetermineSystem.cmake:98 (include)
+  CMakeLists.txt
+
+
